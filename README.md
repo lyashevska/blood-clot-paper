@@ -1,6 +1,6 @@
 # blood-clot-paper
 
-Data and source code suplimentary to the paper:
+Data and source code supplementary to the paper:
 
 O.Lyashevska, F.Malone, E.MacCarthy, J.Fiehler, J.-H. Buhk, L.Morris. Class imbalance in gradient boosting classification algorithms: application to medical data. Submitted to Statistical Methods in Medical Research.
 
